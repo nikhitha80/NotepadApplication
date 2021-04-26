@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images2">
+        <file>images2/about.jpg</file>
+        <file>images2/bold.png</file>
+        <file>images2/copy.png</file>
+        <file>images2/cut.png</file>
+        <file>images2/font-background-colour.png</file>
+        <file>images2/font-colour.jpg</file>
+        <file>images2/italic.png</file>
+        <file>images2/new-file.png</file>
+        <file>images2/open-file.png</file>
+        <file>images2/paste.jpg</file>
+        <file>images2/print.png</file>
+        <file>images2/quit.jpg</file>
+        <file>images2/redo.png</file>
+        <file>images2/save.jpg</file>
+        <file>images2/save-as.png</file>
+        <file>images2/select-font.jpg</file>
+        <file>images2/underline.jpg</file>
+        <file>images2/undo.jpg</file>
+    </qresource>
+</RCC>
